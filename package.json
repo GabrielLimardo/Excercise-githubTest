@@ -1,0 +1,29 @@
+{
+  "name": "exercise-gittest",
+  "version": "1.0.0",
+  "description": "exercise created by Gabriel Agustin Limardo de Casas for the incorporation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "nodemon": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "bcrypt": "^5.0.1",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.17.2",
+    "express-validator": "^6.14.0",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "request": "^2.88.2",
+    "sequelize": "^6.14.0",
+    "sequelize-cli": "^6.4.1",
+    "unirest": "^0.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "validator": "^13.7.0"
+  }
+}
