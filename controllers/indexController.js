@@ -8,7 +8,7 @@ const controller = {
       method: 'get',
       url: 'https://api.github.com/repos/FlatDigital/fullstack-interview-test',
       headers: { 
-        'Authorization': 'Bearer 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'
+        'Authorization': 'ejemplo'
       }
     };
 
@@ -27,7 +27,7 @@ const controller = {
       method: 'get',
       url: 'https://api.github.com/repos/FlatDigital/fullstack-interview-test/commits',
       headers: { 
-        'Authorization': 'Bearer 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'
+        'Authorization':'ejemplo'
       }
     };
 
@@ -46,7 +46,7 @@ const controller = {
       method: 'get',
       url: ' https://api.github.com/repos/FlatDigital/fullstack-interview-test/contributors',
       headers: { 
-        'Authorization': 'Bearer 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'
+        'Authorization': 'ejemplo'
       }
     };
 
@@ -65,7 +65,7 @@ const controller = {
       method: 'get',
       url: 'https://api.github.com/repos/FlatDigital/fullstack-interview-test/branches',
       headers: { 
-        'Authorization': 'Bearer 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'
+        'Authorization': 'ejemplo'
       }
     };
 
@@ -84,7 +84,7 @@ const controller = {
       method: 'get',
       url: 'https://api.github.com/repos/FlatDigital/fullstack-interview-test/pulls',
       headers: { 
-        'Authorization': 'Bearer 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'
+        'Authorization': 'ejemplo'
       }
     };
 
